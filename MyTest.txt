@@ -6,3 +6,5 @@ Second feature added
 New login feature has been added.
 
 Security issues new branches added - main
+
+Hello, tech entry feature has been added
